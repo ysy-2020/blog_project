@@ -1,0 +1,11 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "mybatis-plus.global-config.db-cjaxenonfig.table-prefix",
+      "type": "java.lang.String",
+      "description": "Description for mybatis-plus.global-config.db-cjaxenonfig.table-prefix."
+    }
+  ],
+  "hints": []
+}
